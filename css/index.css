@@ -1,0 +1,41 @@
+body {
+    margin: auto 10%
+}
+
+body h1 {
+    font-family: 'Times New Roman', serif;
+    font-size: 28px;
+    color: limegreen
+}
+
+body h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 22px;
+    color: limegreen
+}
+
+body img {
+    display: block;
+    border: 8px solid limegreen;
+    margin: 0 auto
+}
+
+body p, blockquote {
+   font-family: Arial, sans-serif;
+   font-size: 14px;
+   text-align-last: justify
+}
+
+body blockquote {
+    margin: 10px 0 10px 60px;
+}
+
+.info-box {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png)
+}
+
+.info-box p {
+    margin: 0
+}
