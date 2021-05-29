@@ -1,33 +1,33 @@
 body {
-    margin: auto 10%
+    margin: auto 10%;
+    font-family: Arial, sans-serif;
+    font-size: 14px
 }
 
-body h1 {
+h1 {
     font-family: 'Times New Roman', serif;
     font-size: 28px;
     color: limegreen
 }
 
-body h2 {
+h2 {
     font-family: 'Times New Roman', serif;
     font-size: 22px;
     color: limegreen
 }
 
-body img {
-    display: block;
-    border: 8px solid limegreen;
-    margin: 0 auto
-}
-
-body p, blockquote {
-   font-family: Arial, sans-serif;
-   font-size: 14px;
+p, blockquote {
    text-align-last: justify
 }
 
-body blockquote {
+blockquote {
     margin: 10px 0 10px 60px;
+}
+
+img {
+    display: block;
+    border: 8px solid limegreen;
+    margin: 0 auto
 }
 
 .info-box {
