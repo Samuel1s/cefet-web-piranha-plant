@@ -39,3 +39,7 @@ img {
 .info-box p {
     margin: 0
 }
+
+.text-italic {
+    font-style: italic  
+}
